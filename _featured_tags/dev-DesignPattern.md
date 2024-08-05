@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: PaperToMath
-slug: papertomath
+title: Design Pattern
+slug: Design Pattern
 category: dev
 menu: false
 order: 3

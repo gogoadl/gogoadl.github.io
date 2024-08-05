@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Statistics & R
-slug: r
+title: Algorithm
+slug: Algorithm
 category: dev
 menu: false
 order: 1
