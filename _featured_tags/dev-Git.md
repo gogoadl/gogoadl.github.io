@@ -4,5 +4,5 @@ title: Git
 slug: Git
 category: dev
 menu: false
-order: 5
+order: 6
 ---

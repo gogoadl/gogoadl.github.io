@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Java
-slug: Java
+title: Android
+slug: Android
 category: dev
 menu: false
-order: 7
+order: 2
 ---
