@@ -3,7 +3,7 @@ layout: post
 title: "[Android] 소프트키보드가 레이아웃에 영향을 줄 때"  
 subtitle: "Android"  
 categories: dev
-tags: Dev Android 기술 안드로이드 ANR
+tags: Dev Android 기술 안드로이드 SoftKeyboard Layout
 comments: true  
 header-img: null
 ---  
