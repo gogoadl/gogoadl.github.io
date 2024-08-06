@@ -12,7 +12,7 @@ header-img: null
 로그인 관련 문제인가 싶어 시도 해보다가, 앱이 완전히 종료되지 않아서 발생하는게 아닌가 싶어서 시도 해 봤는데,
 완전히 종료된게 아니기 때문에 발생한게 맞는 듯 싶다.
 
-```
+```java
 @Override
 public void onBackPressed() { // DrawerLayout 이 열려있을 경우에는 DrawerLayout을 닫는다
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
