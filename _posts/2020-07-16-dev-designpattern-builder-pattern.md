@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "[Java] 빌더 패턴이란?"  
+title: "[Design Pattern] 빌더 패턴이란?"  
 subtitle: "DesignPattern"  
 categories: DesignPattern
 tags: Dev Java 기술 DesignPattern BuilderPattern
