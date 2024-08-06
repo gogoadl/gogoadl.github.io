@@ -14,9 +14,9 @@ gogoadl:
   picture:
     src:             /assets/img/me2.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            /assets/img/me2.jpg
-      2x:            /assets/img/me2.jpg
+    # srcset:
+    #   1x:            /assets/img/me2.jpg
+    #   2x:            /assets/img/me2.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
