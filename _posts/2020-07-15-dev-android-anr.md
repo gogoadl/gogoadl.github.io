@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Android 앱 종료 후 재시작 시에 튕김, 비정상 종료 될 때"  
+title: "[Android] 앱 종료 후 재시작 시에 튕김, 비정상 종료 될 때"  
 subtitle: "Android"  
 categories: dev
 tags: Dev Android 기술 안드로이드 ANR
